@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "video_generator", "video_generator\video_generator.cproj", "{779F0333-3FD2-4179-91C0-F4376813C5EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{779F0333-3FD2-4179-91C0-F4376813C5EC}.Debug|AVR.ActiveCfg = Debug|AVR
+		{779F0333-3FD2-4179-91C0-F4376813C5EC}.Debug|AVR.Build.0 = Debug|AVR
+		{779F0333-3FD2-4179-91C0-F4376813C5EC}.Release|AVR.ActiveCfg = Release|AVR
+		{779F0333-3FD2-4179-91C0-F4376813C5EC}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
